@@ -1,6 +1,6 @@
 import UserActivityLogs from './components/UserActivityLogs'
 
-export function LogsWidget {
+export function LogsWidget() {
   return (
     <UserActivityLogs />
   )
